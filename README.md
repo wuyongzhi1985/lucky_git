@@ -19,7 +19,7 @@
 git init 
 git add remote
 git add .
-git commit
+git commit -m "something"
 git push -f
 ```
 
