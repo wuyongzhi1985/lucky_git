@@ -13,14 +13,15 @@
 
 
 
-项目状态：Build Success
+项目状态：`Build` Success
 
-* git init 
-* git add remote
-* git add .
-* git commit
-* git push
-
+```
+git init 
+git add remote
+git add .
+git commit
+git push
+```
 
 > Fecshop开源项目已经**全部开发完毕**，一共六大入口：pc端（appfront）,wap端（apphtml5），后台（appadmin）
 > ，vue端（appserver），第三方系统对接端（appapi），后台脚本端（console），都全部开发完毕，
